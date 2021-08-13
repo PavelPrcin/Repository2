@@ -1,6 +1,3 @@
-do loundry
-<<<<<<< HEAD
-fo shopping today
-=======
+do loundry today
 go shopping tommorow
->>>>>>> 1623efb969dc94e173171298e2f04883b28ff93a
+
